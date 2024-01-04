@@ -205,7 +205,7 @@
 						<phase>verify</phase>
 						<configuration>
 							<baselines>
-								<baseline>https://download.eclipse.org/technology/m2e/releases/latest/</baseline>
+								<baseline>https://archive.eclipse.org/technology/m2e/releases/1.16.2/</baseline>
 							</baselines>
 							<comparator>zip</comparator>
 						</configuration>
