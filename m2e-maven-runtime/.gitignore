@@ -1,4 +1,5 @@
 .classpath
-.settings/
+/**/.settings/*
+!/**/.settings/org.eclipse.pde.prefs
 META-INF/
 jars/
